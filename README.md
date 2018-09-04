@@ -7,6 +7,6 @@ Whether a contract is signed, the money is transferred, the application is made,
 
 Timestamp according to Electronic Signature Law No. 5070: A record confirmed by an electronic signature by an electronic certificate service provider for the purpose of determining when an electronic data is produced, altered, sent, received and / or recorded.
 
-KamuSM api uses only in Turkey. According to Kamusm firm support teams, currently this api supports only Cades + Bes signature. You can't use timestamped signature on android. But you can sign timestamp signature on server with using LTV upgrade. This is not easily found information. Also, I shared project file follows. In this project, there is Cades + Bes signature example.
+KamuSM api uses only in Turkey. According to Kamusm firm support teams, currently this api supports only Cades + Bes signature. You can't use timestamped signature on android. But you can sign timestamp signature on server with using LTV upgrade. This information can't find easily. Also, I shared project file follows. In this project, there is Cades + Bes signature example.
 
 https://drive.google.com/open?id=0B0EyQ45rOAFuSXhIa0k5YlVBTzg
